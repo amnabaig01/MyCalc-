@@ -1,0 +1,6 @@
+{
+  "name": "Apex AI Scientific Calculator",
+  "description": "Advanced scientific calculator featuring high-precision arithmetic, calculus, trigonometry, live graphing, and Gemini-powered step-by-step math solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
